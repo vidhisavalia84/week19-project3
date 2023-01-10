@@ -1,0 +1,6 @@
+com\herokuapp\booker\cucumber\steps\CRUDSteps.class
+com\herokuapp\booker\cucumber\steps\StepsOfBooking.class
+com\herokuapp\booker\testbase\TestBase.class
+com\herokuapp\booker\cucumber\CucumberRunner.class
+com\herokuapp\booker\bookinginfo\TagTest.class
+com\herokuapp\booker\bookinginfo\CreateBookingWithDataDriven.class
